@@ -1,5 +1,5 @@
 # Antitumor-activity-of-entinostat-plus-NHS-IL12
-Code to reproduce figures and tables in paper
+Code to reproduce figures and tables in paper https://www.nature.com/articles/s41467-021-25393-x
 
 This code was written in the NIH Integrated Data Analysis Portal (NIDAP), a user interface developed on the Foundry Platform (Palantir Technologies).
 
